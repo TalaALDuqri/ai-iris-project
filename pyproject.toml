@@ -1,0 +1,14 @@
+[project]
+name = "ai-iris-project"
+version = "0.1.0"
+description = "Decision Tree on Iris"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "matplotlib",
+  "joblib",
+  "seaborn"
+]
