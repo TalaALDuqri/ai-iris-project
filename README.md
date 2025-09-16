@@ -3,22 +3,15 @@ A project that applies Decision Tree to Iris datasets.
 This project was implemented by Talal Al-Duqri,Shihab AL-Jalal and Hassan Ashish.
 
 Number        Name                     Role                    Contributions
-1             Talal AL-Duqri          Lade Developer           Setting up the project structure,loding and proccessing data,
-                                                               writing the main code in 'main.py'
-                                                               -Creat the repo on GitHub.
-                                                               -Built the project structure(folders/files)
-                                                               -Wrote the main.py and load_data.py codes.
-2             Shihab Al-Jalal         Data Analyst             Performing Exploratory Data Analysis(EDA),preparing graphs and 
-                                                               verifying data quality
-                                                               -Added the notebooks/folder.
-                                                               -performed EDA and generated graphs.
-                                                               -Uploaded the analysis results to the repository.
+1             Talal AL-Duqri          Lade Developer           -prepared the report in 'docs/report.md'.
+                                                               -Helped with project structure and README.
+2             Shihab Al-Jalal         Data Analyst             -Created folders('src/data','src/models','/src/utils')
+                                                               -performed EDA and visualization .
+                                                               -uploaded Jupyter notebooks in notebooks.
 
-3             Hassan Ashish           Machine Learning         Training the Decision Tree Modle , improving the modle,evaluating the       
-                                      Engineer                 resuits,and writing the report in docs/report.md   
-                                                               -Wrote the modle.py and helpers.py codes
-                                                               -Trained rhe Decision Tree modle and optimized the parameters.
-                                                               -prepared the final report in docs/report.md.
+3             Hassan Ashish           Machine Learning         -wrote the 'main.py'file.
+                                      Engineer                 -Implemented and trained the Decision Tree model
+                                                               -Optimized the model and verified
 
 
   # project Setup
